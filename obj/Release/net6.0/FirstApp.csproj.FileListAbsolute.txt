@@ -1,0 +1,8 @@
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.AssemblyInfo.cs
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.MvcApplicationPartsAssemblyInfo.cache
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.RazorAssemblyInfo.cache
+D:\DotnetProj\FirstApp\obj\Release\net6.0\FirstApp.RazorAssemblyInfo.cs
